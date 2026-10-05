@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-output/
-logs/
-data/input/*.mp4
-data/input/*.mkv
-data/input/*.mov
-!data/input/.gitkeep
